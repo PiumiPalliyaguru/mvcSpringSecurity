@@ -1,2 +1,5 @@
+target/
+
+# IDEA
 .idea
-target
+*.iml
